@@ -1,2 +1,3 @@
 my name is khalid
-cli-tree
+$ hello camp
+bash: hello: command not found
